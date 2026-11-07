@@ -1,0 +1,6 @@
+{
+  "name": "OMNEX Stack v2 Technical Architecture Audit & Security Evaluation",
+  "description": "Comprehensive security, cryptography, and feasibility evaluation of the upgraded OMNEX-stack v2 blockchain architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
